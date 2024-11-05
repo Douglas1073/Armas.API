@@ -15,6 +15,7 @@ Capacidade do Carregador: 17 cartuchos,
 Peso: 625g (vazia),
 Sistema de ação: Repetição por ação de recuo,
 Construção: Corpo em polímero com partes internas de metal,
+Ano de Fabricação: 1982,
+Fabricante: Gaston Glock,
 
-Tipo - Pistola Glock 17, lançada em 1982 por Gaston Glock, é uma pistola semiautomática austríaca
-conhecida por sua leveza, confiabilidade e segurança.
+Tipo: Pistola semiautomática austríaca conhecida por sua leveza, confiabilidade e segurança.
